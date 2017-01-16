@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <RelativeLayout
+        android:id="@+id/left_rl"
+        android:layout_width="55dp"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/left_iv"
+            android:layout_width="55dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:src="@drawable/main_left_back"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/left_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="关闭"
+            android:textColor="#00D8E2"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/center_iv"
+            android:layout_width="5dp"
+            android:layout_height="45dp"
+            android:layout_centerInParent="true"
+            android:padding="5dp" />
+
+        <TextView
+            android:id="@+id/center_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="个人中心"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/right_iv"
+        android:layout_width="55dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="17dp"
+        android:paddingRight="17dp" />
+
+    <LinearLayout
+        android:id="@+id/bottom_line_ll"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="#f0f0f0"
+        android:orientation="vertical" />
+</RelativeLayout>

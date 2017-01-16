@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cancle_ic.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-xxxhdpi\\cancle_ic.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\main_top_left.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-xxxhdpi\\main_top_left.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\clear_button.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-xxxhdpi\\clear_button.png"
+    }
+]

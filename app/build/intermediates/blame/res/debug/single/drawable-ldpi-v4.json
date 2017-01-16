@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_left_back.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\drawable-ldpi-v4\\main_left_back.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\push.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.getui\\sdk\\2.9.5.0\\res\\drawable-ldpi-v4\\push.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\main_left_back.png",
+        "source": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\main_left_back.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
+        "source": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow.png"
+    }
+]

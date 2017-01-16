@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#00D8D8</color>
+    <color name="colorbai">#ffffff</color>
+    <color name="colorhuizi">#dbdbdb</color>
+    <color name="colorhuixian">#f1f1f1</color>
+    <color name="colorhei">#000000</color>
+    <color name="colorxing">#00d8e2</color>
+    <color name="colorzihei">#454545</color>
+    <color name="colorsettingzi">#808080</color>
+    <color name="colormytitlezi">#006161</color>
+    <color name="colormytitle2zi">#444444</color>
+    <color name="colorchongzhizi">#f60009</color>
+    <color name="dk_blue">#00D8D8</color>
+    <color name="main_bg">#F0F0F0</color>
+    <color name="orderzihui">#999999</color>
+    <color name="ordertypezi">#7aa032</color>
+</resources>
