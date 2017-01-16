@@ -108,7 +108,6 @@ public class FindPwdActivity extends BaseActivity {
                                         Utils.putCache(Key.KEY_UserId, model.getData().getUserId());
                                         Utils.putCache("tel", tel);
                                         LoginActivity.mIntail.finish();
-                                        ForgetPwd_CheckCodeActivity.mIntail.finish();
                                     } else {
                                         ToastShort("修改成功~~");
                                     }
