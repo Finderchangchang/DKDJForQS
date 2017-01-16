@@ -3,6 +3,7 @@ package liuliu.qs.ui;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
@@ -20,6 +21,7 @@ import com.amap.api.maps2d.CameraUpdateFactory;
 import com.amap.api.maps2d.MapView;
 import com.amap.api.maps2d.UiSettings;
 import com.amap.api.maps2d.model.LatLng;
+import com.amap.api.maps2d.model.PolylineOptions;
 import com.amap.api.services.core.LatLonPoint;
 import com.amap.api.services.help.Tip;
 import com.amap.api.services.route.BusRouteResult;
@@ -282,6 +284,7 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
     @Override
     public void onWalkRouteSearched(WalkRouteResult walkRouteResult, int i) {
         if (i == 1000 && walkRouteResult != null) {
+            List<LatLng> latLngs = new ArrayList<LatLng>();
             if (walkRouteResult.getPaths().size() > 0) {
                 WalkPath path = walkRouteResult.getPaths().get(0);
                 juli = Double.valueOf(path.getDistance()) / 1000;
@@ -297,6 +300,8 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
                             .subscribe(model -> {
                                 feiTv.setText("订单配送费：" + model.getSendfee() + "元");
                                 sendfee = model.getSendfee();
+                                aMap.addPolyline(new PolylineOptions().
+                                        addAll(latLngs).width(10).color(Color.argb(255, 1, 1, 1)));
                             }, error -> {
                                 feiTv.setText("算费失败");
                             });
