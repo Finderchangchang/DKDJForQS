@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\release\\mipmap\\progress_dialog_loading_white_10.png",
-        "source": "E:\\androidProject\\DKDJForQS\\afinal\\src\\main\\res\\mipmap\\progress_dialog_loading_white_10.png"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\release\\mipmap\\progress_dialog_loading_white_06.png",
         "source": "E:\\androidProject\\DKDJForQS\\afinal\\src\\main\\res\\mipmap\\progress_dialog_loading_white_06.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\release\\mipmap\\progress_dialog_loading_white_10.png",
+        "source": "E:\\androidProject\\DKDJForQS\\afinal\\src\\main\\res\\mipmap\\progress_dialog_loading_white_10.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\release\\mipmap\\progress_dialog_loading_white_03.png",

@@ -40,7 +40,7 @@ public final class R {
 		public static final int pickerview_topbar_title_textsize = 0x7f080064;
 	}
 	public static final class drawable {
-		public static final int selector_pickerview_btn = 0x7f0200bd;
+		public static final int selector_pickerview_btn = 0x7f0200bf;
 	}
 	public static final class id {
 		public static final int btnCancel = 0x7f0d015e;

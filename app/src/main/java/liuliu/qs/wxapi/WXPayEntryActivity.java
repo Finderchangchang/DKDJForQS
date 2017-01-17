@@ -14,8 +14,6 @@ import com.tencent.mm.sdk.openapi.WXAPIFactory;
 
 import liuliu.qs.R;
 import liuliu.qs.config.Key;
-import liuliu.qs.ui.AddBuyActivity;
-import liuliu.qs.ui.AddSongActivity;
 import liuliu.qs.ui.PayActivity;
 
 
@@ -50,12 +48,6 @@ public class WXPayEntryActivity extends Activity implements IWXAPIEventHandler {
             switch (resp.errCode) {
                 case 0:
                     Toast.makeText(WXPayEntryActivity.this, "支付成功", Toast.LENGTH_SHORT).show();
-                    if (AddBuyActivity.mInstail != null) {
-                        AddBuyActivity.mInstail.finish();
-                    }
-                    if (AddSongActivity.mInstail != null) {
-                        AddSongActivity.mInstail.finish();
-                    }
                     if (PayActivity.mInstail != null) {
                         PayActivity.mInstail.finish();
                     }

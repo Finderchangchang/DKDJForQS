@@ -296,6 +296,10 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\drawable\\head_image_54.png"
     },
     {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_line.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\drawable\\normal_line.png"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_image_40.png",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\drawable\\head_image_40.png"
     },
@@ -362,6 +366,10 @@
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_border_click.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\drawable\\blue_border_click.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_line.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\drawable\\pressed_line.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_image_56.png",

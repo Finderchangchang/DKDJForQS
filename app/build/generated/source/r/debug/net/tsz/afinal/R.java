@@ -659,10 +659,10 @@ public final class R {
 		public static final int head_image_9 = 0x7f0200b0;
 		public static final int icon_delete = 0x7f0200b1;
 		public static final int main_left_back = 0x7f0200b5;
-		public static final int notification_template_icon_bg = 0x7f0200c3;
-		public static final int progress_dialog_drawable_white = 0x7f0200ba;
-		public static final int ptr_rotate_arrow = 0x7f0200bb;
-		public static final int snackbar_background = 0x7f0200be;
+		public static final int notification_template_icon_bg = 0x7f0200c5;
+		public static final int progress_dialog_drawable_white = 0x7f0200bc;
+		public static final int ptr_rotate_arrow = 0x7f0200bd;
+		public static final int snackbar_background = 0x7f0200c0;
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0d01bc;
@@ -693,7 +693,7 @@ public final class R {
 		public static final int cancel_btn_ll_dialog = 0x7f0d01ba;
 		public static final int center = 0x7f0d0025;
 		public static final int center_horizontal = 0x7f0d0026;
-		public static final int center_iv = 0x7f0d0092;
+		public static final int center_iv = 0x7f0d0108;
 		public static final int center_tv = 0x7f0d01d9;
 		public static final int center_vertical = 0x7f0d0027;
 		public static final int checkbox = 0x7f0d0065;
@@ -900,20 +900,20 @@ public final class R {
 	public static final class mipmap {
 		public static final int item_default = 0x7f030011;
 		public static final int main_zhengjian = 0x7f030026;
-		public static final int progress_dialog_loading_bg = 0x7f03003e;
-		public static final int progress_dialog_loading_white_01 = 0x7f03003f;
-		public static final int progress_dialog_loading_white_02 = 0x7f030040;
-		public static final int progress_dialog_loading_white_03 = 0x7f030041;
-		public static final int progress_dialog_loading_white_04 = 0x7f030042;
-		public static final int progress_dialog_loading_white_05 = 0x7f030043;
-		public static final int progress_dialog_loading_white_06 = 0x7f030044;
-		public static final int progress_dialog_loading_white_07 = 0x7f030045;
-		public static final int progress_dialog_loading_white_08 = 0x7f030046;
-		public static final int progress_dialog_loading_white_09 = 0x7f030047;
-		public static final int progress_dialog_loading_white_10 = 0x7f030048;
-		public static final int progress_dialog_loading_white_11 = 0x7f030049;
-		public static final int progress_dialog_loading_white_12 = 0x7f03004a;
-		public static final int title_back = 0x7f030073;
+		public static final int progress_dialog_loading_bg = 0x7f03003c;
+		public static final int progress_dialog_loading_white_01 = 0x7f03003d;
+		public static final int progress_dialog_loading_white_02 = 0x7f03003e;
+		public static final int progress_dialog_loading_white_03 = 0x7f03003f;
+		public static final int progress_dialog_loading_white_04 = 0x7f030040;
+		public static final int progress_dialog_loading_white_05 = 0x7f030041;
+		public static final int progress_dialog_loading_white_06 = 0x7f030042;
+		public static final int progress_dialog_loading_white_07 = 0x7f030043;
+		public static final int progress_dialog_loading_white_08 = 0x7f030044;
+		public static final int progress_dialog_loading_white_09 = 0x7f030045;
+		public static final int progress_dialog_loading_white_10 = 0x7f030046;
+		public static final int progress_dialog_loading_white_11 = 0x7f030047;
+		public static final int progress_dialog_loading_white_12 = 0x7f030048;
+		public static final int title_back = 0x7f030071;
 	}
 	public static final class string {
 		public static final int abc_action_bar_home_description = 0x7f070000;

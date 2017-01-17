@@ -10,10 +10,10 @@ public class OrderDetailsActivity$$ViewBinder<T extends liuliu.qs.ui.OrderDetail
     View view;
     view = finder.findRequiredView(source, 2131558524, "field 'titleBar'");
     target.titleBar = finder.castView(view, 2131558524, "field 'titleBar'");
-    view = finder.findRequiredView(source, 2131558651, "field 'tabFindFragmentTitle'");
-    target.tabFindFragmentTitle = finder.castView(view, 2131558651, "field 'tabFindFragmentTitle'");
-    view = finder.findRequiredView(source, 2131558652, "field 'orderListVp'");
-    target.orderListVp = finder.castView(view, 2131558652, "field 'orderListVp'");
+    view = finder.findRequiredView(source, 2131558650, "field 'tabFindFragmentTitle'");
+    target.tabFindFragmentTitle = finder.castView(view, 2131558650, "field 'tabFindFragmentTitle'");
+    view = finder.findRequiredView(source, 2131558651, "field 'orderListVp'");
+    target.orderListVp = finder.castView(view, 2131558651, "field 'orderListVp'");
   }
 
   @Override public void unbind(T target) {

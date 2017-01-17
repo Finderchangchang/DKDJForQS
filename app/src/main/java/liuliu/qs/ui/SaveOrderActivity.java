@@ -21,15 +21,16 @@ import com.amap.api.maps2d.CameraUpdateFactory;
 import com.amap.api.maps2d.MapView;
 import com.amap.api.maps2d.UiSettings;
 import com.amap.api.maps2d.model.LatLng;
+import com.amap.api.maps2d.model.MarkerOptions;
 import com.amap.api.maps2d.model.PolylineOptions;
 import com.amap.api.services.core.LatLonPoint;
-import com.amap.api.services.help.Tip;
 import com.amap.api.services.route.BusRouteResult;
 import com.amap.api.services.route.DriveRouteResult;
 import com.amap.api.services.route.RideRouteResult;
 import com.amap.api.services.route.RouteSearch;
 import com.amap.api.services.route.WalkPath;
 import com.amap.api.services.route.WalkRouteResult;
+import com.amap.api.services.route.WalkStep;
 
 import net.tsz.afinal.FinalDb;
 import net.tsz.afinal.view.TitleBar;
@@ -133,7 +134,7 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
                     map.put("togoid", Utils.getCache(Key.KEY_UserId));
                     map.put("ulat", poiModel.getLat() + "");
                     map.put("ulng", poiModel.getLng() + "");
-                    map.put("diZhi", URLEncoder.encode(poiModel.getPoiAddress()));
+                    map.put("diZhi", URLEncoder.encode(poiModel.getPoiName()));
                     map.put("juLi", juli + "");
                     map.put("sendFee", sendfee);
                     HttpUtil.load().addOrder(map)
@@ -157,17 +158,6 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
         intent.putExtra("val", poiModel);
         setResult(8, intent);
         SaveOrderActivity.this.finish();
-    }
-
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        switch (resultCode) {
-            case 9:
-                Tip tip = data.getParcelableExtra("tip");
-                load(true, new PoiModel(tip.getName(), tip.getAddress(), "0", tip.getPoint().getLatitude(), tip.getPoint().getLongitude()));
-                break;
-        }
-        super.onActivityResult(requestCode, resultCode, data);
     }
 
 
@@ -207,7 +197,7 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
         list = db.findAll(ShopInfo.class);
         if (list != null) {
             addressTv.setText("商家的地址：" + list.get(0).getAddress());
-            shAddressTv.setText("收货人地址：" + poiModel.getPoiAddress());
+            shAddressTv.setText("收货人地址：" + poiModel.getPoiName());
             RouteSearch.FromAndTo fromAndTo = new RouteSearch.FromAndTo(new LatLonPoint(Double.parseDouble(list.get(0).getLat()),
                     Double.parseDouble(list.get(0).getLng())), new LatLonPoint(poiModel.getLat(), poiModel.getLng()));
             RouteSearch.WalkRouteQuery query = new RouteSearch.WalkRouteQuery(fromAndTo, RouteSearch.WalkDefault);
@@ -220,7 +210,7 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
             mUiSettings.setLogoPosition(AMapOptions.LOGO_POSITION_BOTTOM_CENTER);
             aMap.setMyLocationEnabled(true);// 可触发定位并显示定位层
             if (poiModel != null) {
-                aMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(poiModel.getLat(), poiModel.getLng()), 16));
+                aMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(poiModel.getLat(), poiModel.getLng()), 14));
             } else {
                 dialog.show();
             }
@@ -231,21 +221,8 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
 
     }
 
-    boolean click;
     PoiModel poiModel;
 
-    /**
-     * 通知顶部文字改变
-     */
-    public void load(boolean itemClick, PoiModel model) {
-        click = itemClick;
-        poiModel = model;
-        if (model != null) {
-            if (itemClick) {
-                aMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(model.getLat(), model.getLng()), 16));
-            }
-        }
-    }
 
     @Override
     protected void onDestroy() {
@@ -287,10 +264,25 @@ public class SaveOrderActivity extends BaseActivity implements IAddressManage, R
             List<LatLng> latLngs = new ArrayList<LatLng>();
             if (walkRouteResult.getPaths().size() > 0) {
                 WalkPath path = walkRouteResult.getPaths().get(0);
-                juli = Double.valueOf(path.getDistance()) / 1000;
+                double length = 0;
+                for (WalkPath path1 : walkRouteResult.getPaths()) {
+                    length += path1.getDistance();
+                    for (WalkStep walkStep : path1.getSteps()) {
+                        for (LatLonPoint point : walkStep.getPolyline()) {
+                            latLngs.add(new LatLng(point.getLatitude(), point.getLongitude()));
+                        }
+                    }
+                }
+                juli = Double.valueOf(length) / 1000;
+                aMap.addPolyline(new PolylineOptions().
+                        addAll(latLngs).width(5).color(Color.argb(255, 1, 1, 1)));
                 if (juli <= 0) {
                     ToastShort("送货距离有问题，请联系业务员~~");
                 } else {
+                    aMap.addMarker(new MarkerOptions().position(latLngs.get(0)));
+                    if (latLngs.size() >= 1) {
+                        aMap.addMarker(new MarkerOptions().position(latLngs.get(latLngs.size() - 1)));
+                    }
                     Map<String, String> map = new HashMap<>();
                     map.put("togoid", Utils.getCache(Key.KEY_UserId));
                     map.put("gonglishu", juli + "");

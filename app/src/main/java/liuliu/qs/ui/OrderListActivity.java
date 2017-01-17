@@ -9,13 +9,11 @@ import android.support.v4.view.ViewPager;
 import net.tsz.afinal.view.TitleBar;
 
 import java.util.ArrayList;
-import java.util.List;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import liuliu.qs.R;
 import liuliu.qs.base.BaseActivity;
-import liuliu.qs.model.OrderModel;
 
 
 /**
@@ -32,7 +30,6 @@ public class OrderListActivity extends BaseActivity {
     private OrderFragment orderFragment2;
     private OrderFragment orderFragment3;
     private TabLayout tab_FindFragment_title;
-    List<OrderModel> orderModelList;
     public static OrderListActivity mIntails;
 
     @Override

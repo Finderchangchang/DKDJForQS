@@ -50,7 +50,7 @@ public class OrderListener implements IOrderMView {
                 break;
         }
         map.put("pageindex", pageindex + "");
-        map.put("pagesize", "10");
+        map.put("pagesize", "50");
         HttpUtil.load()
                 .getOrderList(map)
                 .subscribeOn(Schedulers.io())

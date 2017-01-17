@@ -10,14 +10,14 @@ public class Manage_AddressActivity$$ViewBinder<T extends liuliu.qs.ui.Manage_Ad
     View view;
     view = finder.findRequiredView(source, 2131558524, "field 'titleBar'");
     target.titleBar = finder.castView(view, 2131558524, "field 'titleBar'");
-    view = finder.findRequiredView(source, 2131558553, "field 'sendAddressTv'");
-    target.sendAddressTv = finder.castView(view, 2131558553, "field 'sendAddressTv'");
-    view = finder.findRequiredView(source, 2131558554, "field 'addressTitleTv'");
-    target.addressTitleTv = finder.castView(view, 2131558554, "field 'addressTitleTv'");
-    view = finder.findRequiredView(source, 2131558552, "field 'searchPoiLl'");
-    target.searchPoiLl = finder.castView(view, 2131558552, "field 'searchPoiLl'");
-    view = finder.findRequiredView(source, 2131558555, "field 'mpEt'");
-    target.mpEt = finder.castView(view, 2131558555, "field 'mpEt'");
+    view = finder.findRequiredView(source, 2131558551, "field 'sendAddressTv'");
+    target.sendAddressTv = finder.castView(view, 2131558551, "field 'sendAddressTv'");
+    view = finder.findRequiredView(source, 2131558552, "field 'addressTitleTv'");
+    target.addressTitleTv = finder.castView(view, 2131558552, "field 'addressTitleTv'");
+    view = finder.findRequiredView(source, 2131558550, "field 'searchPoiLl'");
+    target.searchPoiLl = finder.castView(view, 2131558550, "field 'searchPoiLl'");
+    view = finder.findRequiredView(source, 2131558553, "field 'mpEt'");
+    target.mpEt = finder.castView(view, 2131558553, "field 'mpEt'");
   }
 
   @Override public void unbind(T target) {

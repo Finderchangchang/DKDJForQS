@@ -107,26 +107,90 @@
         android:background="@android:color/white"
         android:orientation="vertical"
         android:paddingLeft="20dp"
-        android:paddingTop="10dp"
-        android:visibility="gone">
+        android:paddingTop="10dp">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="今日活动进度条（只获得一种返利）" />
 
-        <LinearLayout
+        <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="50dp"
+            android:layout_height="35dp"
+            android:gravity="center"
             android:orientation="vertical"
             android:visibility="gone">
 
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingTop="10dp">
+
+                    <TextView
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:background="@color/colorPrimary" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:text="10单"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingTop="10dp">
+
+                    <TextView
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:background="@color/colorPrimary" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:text="20单"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
             <ProgressBar
-                android:id="@+id/progressBar2"
+                android:id="@+id/color_progressBar2"
                 style="?android:attr/progressBarStyleHorizontal"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
-        </LinearLayout>
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:progress="10"
+                android:progressDrawable="@drawable/pressed_line" />
+        </RelativeLayout>
 
         <ListView
             android:id="@+id/main_lv"

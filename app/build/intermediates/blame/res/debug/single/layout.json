@@ -100,12 +100,12 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_phone.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_progress.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_progress.xml"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_title_bar.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\v_title_bar.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_progress.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_progress.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_list.xml",

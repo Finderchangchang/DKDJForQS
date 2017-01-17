@@ -176,12 +176,12 @@
         "source": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\bundles\\debug\\res\\drawable\\head_image_45.png"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\head_image_31.png",
-        "source": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\bundles\\debug\\res\\drawable\\head_image_31.png"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\head_image_31.png",
+        "source": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\bundles\\debug\\res\\drawable\\head_image_31.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\head_image_0.png",

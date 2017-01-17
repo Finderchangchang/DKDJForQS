@@ -12,10 +12,10 @@ public class RegActivity$$ViewBinder<T extends liuliu.qs.ui.RegActivity> impleme
     target.titleBar = finder.castView(view, 2131558524, "field 'titleBar'");
     view = finder.findRequiredView(source, 2131558533, "field 'telEt'");
     target.telEt = finder.castView(view, 2131558533, "field 'telEt'");
-    view = finder.findRequiredView(source, 2131558659, "field 'sendCodeBtn'");
-    target.sendCodeBtn = finder.castView(view, 2131558659, "field 'sendCodeBtn'");
-    view = finder.findRequiredView(source, 2131558603, "field 'codeEt'");
-    target.codeEt = finder.castView(view, 2131558603, "field 'codeEt'");
+    view = finder.findRequiredView(source, 2131558658, "field 'sendCodeBtn'");
+    target.sendCodeBtn = finder.castView(view, 2131558658, "field 'sendCodeBtn'");
+    view = finder.findRequiredView(source, 2131558601, "field 'codeEt'");
+    target.codeEt = finder.castView(view, 2131558601, "field 'codeEt'");
     view = finder.findRequiredView(source, 2131558525, "field 'pwdEt'");
     target.pwdEt = finder.castView(view, 2131558525, "field 'pwdEt'");
     view = finder.findRequiredView(source, 2131558526, "field 'pwdConfirmEt'");

@@ -8,7 +8,7 @@ package com.igexin.sdk;
 
 public final class R {
 	public static final class drawable {
-		public static final int push = 0x7f0200bc;
+		public static final int push = 0x7f0200be;
 	}
 	public static final class id {
 		public static final int getui_big_bigtext_defaultView = 0x7f0d014c;

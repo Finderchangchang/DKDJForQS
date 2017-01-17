@@ -12,39 +12,47 @@
         app:center_tv="密码修改"
         app:left_iv="@mipmap/main_back" />
 
-    <EditText
-        android:id="@+id/pwd_et"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="45dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/code_bg"
-        android:hint="请输入旧密码"
-        android:paddingLeft="5dp"
-        android:textSize="18sp" />
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/white"
+        android:orientation="vertical">
 
-    <EditText
-        android:id="@+id/pwd_confirm_et"
-        android:layout_width="match_parent"
-        android:layout_height="45dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/code_bg"
-        android:hint="请输入新密码"
-        android:paddingLeft="5dp"
-        android:textSize="18sp" />
+        <EditText
+            android:id="@+id/pwd_et"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/code_bg"
+            android:hint="请输入旧密码"
+            android:paddingLeft="5dp"
+            android:textSize="18sp" />
 
-    <Button
-        android:id="@+id/change_btn"
-        android:layout_width="match_parent"
-        android:layout_height="45dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/login_btn_bg"
-        android:text="确认修改"
-        android:textColor="@android:color/white"
-        android:textSize="18sp" />
+        <EditText
+            android:id="@+id/pwd_confirm_et"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/code_bg"
+            android:hint="请输入新密码"
+            android:paddingLeft="5dp"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/change_btn"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/login_btn_bg"
+            android:text="确认修改"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
 </LinearLayout>

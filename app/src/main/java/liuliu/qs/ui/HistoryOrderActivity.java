@@ -1,7 +1,6 @@
 package liuliu.qs.ui;
 
 import android.widget.ListView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import net.tsz.afinal.view.TitleBar;
@@ -35,8 +34,6 @@ public class HistoryOrderActivity extends BaseActivity {
     TextView order2Tv;
     @Bind(R.id.order3_tv)
     TextView order3Tv;
-    @Bind(R.id.progressBar2)
-    ProgressBar progressBar2;
     @Bind(R.id.main_lv)
     ListView mainLv;
     CommonAdapter<TongJiModel.OrderlistBean> commonAdapter;
@@ -67,6 +64,8 @@ public class HistoryOrderActivity extends BaseActivity {
                     order1Tv.setText(model.getTodayOrderCount());
                     order2Tv.setText(model.getThisWeekOrderCount());
                     order3Tv.setText(model.getTotalOrderCount());
+                    list=model.getOrderlist();
+                    commonAdapter.refresh(list);
                 }, error -> {
 
                 });

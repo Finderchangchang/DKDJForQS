@@ -16,8 +16,6 @@ public class HistoryOrderActivity$$ViewBinder<T extends liuliu.qs.ui.HistoryOrde
     target.order2Tv = finder.castView(view, 2131558529, "field 'order2Tv'");
     view = finder.findRequiredView(source, 2131558530, "field 'order3Tv'");
     target.order3Tv = finder.castView(view, 2131558530, "field 'order3Tv'");
-    view = finder.findRequiredView(source, 2131558531, "field 'progressBar2'");
-    target.progressBar2 = finder.castView(view, 2131558531, "field 'progressBar2'");
     view = finder.findRequiredView(source, 2131558532, "field 'mainLv'");
     target.mainLv = finder.castView(view, 2131558532, "field 'mainLv'");
   }
@@ -27,7 +25,6 @@ public class HistoryOrderActivity$$ViewBinder<T extends liuliu.qs.ui.HistoryOrde
     target.order1Tv = null;
     target.order2Tv = null;
     target.order3Tv = null;
-    target.progressBar2 = null;
     target.mainLv = null;
   }
 }

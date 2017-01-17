@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\location_ic.png",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\location_ic.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\main1.png",
@@ -24,12 +24,12 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\mark_address.png"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\save_address.png",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\save_address.png"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\main_back.png",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\main_back.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\save_address.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\save_address.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\wx_pay.png",
@@ -48,12 +48,12 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\tel.png"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tel_change.png",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\tel_change.png"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\search.png",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tel_change.png",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\tel_change.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\zfb_pay.png",
@@ -82,10 +82,6 @@
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\start_bg.png",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\start_bg.png"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\normal_line.png",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\normal_line.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\sha_lou_small.png",
@@ -122,10 +118,6 @@
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\state1_normal.png",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\state1_normal.png"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pressed_line.png",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\mipmap-hdpi\\pressed_line.png"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\main4.png",

@@ -10,12 +10,12 @@ public class SearchPoiActivity$$ViewBinder<T extends liuliu.qs.ui.SearchPoiActiv
     View view;
     view = finder.findRequiredView(source, 2131558524, "field 'titleBar'");
     target.titleBar = finder.castView(view, 2131558524, "field 'titleBar'");
-    view = finder.findRequiredView(source, 2131558661, "field 'inputEdittext'");
-    target.inputEdittext = finder.castView(view, 2131558661, "field 'inputEdittext'");
-    view = finder.findRequiredView(source, 2131558660, "field 'searchBarLayout'");
-    target.searchBarLayout = finder.castView(view, 2131558660, "field 'searchBarLayout'");
-    view = finder.findRequiredView(source, 2131558662, "field 'minputlist'");
-    target.minputlist = finder.castView(view, 2131558662, "field 'minputlist'");
+    view = finder.findRequiredView(source, 2131558660, "field 'inputEdittext'");
+    target.inputEdittext = finder.castView(view, 2131558660, "field 'inputEdittext'");
+    view = finder.findRequiredView(source, 2131558659, "field 'searchBarLayout'");
+    target.searchBarLayout = finder.castView(view, 2131558659, "field 'searchBarLayout'");
+    view = finder.findRequiredView(source, 2131558661, "field 'minputlist'");
+    target.minputlist = finder.castView(view, 2131558661, "field 'minputlist'");
   }
 
   @Override public void unbind(T target) {
