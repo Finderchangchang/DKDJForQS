@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\main_left_back.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\drawable-anydpi-v21\\main_left_back.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\main_left_back.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\drawable-anydpi-v21\\main_left_back.xml"
     }

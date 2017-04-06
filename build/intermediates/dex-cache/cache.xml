@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_13c3ee57e798b0e476a90e47d0038bd911388ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_77624a6e7683c6b557263cb87ea92ed505c9c243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\rxjava-1.1.5_74dd2eeb7003a467412f92d8accbdaab9a47a4fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_cb04d53b9373a3ef40cd534ee731d59e240ac7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\job\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_36d6fc5138d1d430720fc3c9fb12fff34343d775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.flyco.tablayout\FlycoTabLayout_Lib\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0a619246be9154909d1d93f5de8618225ddef418">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.flyco.tablayout-FlycoTabLayout_Lib-2.1.0_4e0684af37e49658256d406078277499db0a1550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\glide-3.6.1_4020668c253519df8db009e7f815b6fcc7d18017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\libammsdk_9238c144a3116d0e1ab969039d7c210d5f9fe862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.getui\sdk\2.9.5.0\jars\libs\GetuiSDK2.9.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba30d99b12b4b79e6304f06db9e4f4a57515f17f">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\GetuiSDK2.9.5.0_5e59f4ab7517a796214e8ad42f86ced1958f9616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\libs\dom4j-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\dom4j-1.6.1_937c821f55ca05d4e5f07c3cce4520f563c166e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_5644b0c69bad3edc512ec8f1e9b0ea5f06d0fb0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_f0f9c9a3154f89d9efcd3204b7a9c781b59f2024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d204f14ac0278b79783a83bf9a74cf9e68d0c10">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.tencent.bugly-crashreport-2.5.0_7acf5f766cdd4485334a9ee42f6344a02e2946a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_01cc990dcf2d17d688f9fc2e7c93ea22339e41ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\DKDJForQS\afinal\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="577d8d4ca5f11794beb47889128b2791ede95353">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\DKDJForQS-afinal-unspecified_562cd609891c3f29391656e19ca56a1e37748ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\libs\AMap2DMap_2.9.2_AMapSearch_3.6.1_AMapLocation_3.1.0_20161122.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="503d40478f4ddc26a73b4b151741061af2c63d06">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\AMap2DMap_2.9.2_AMapSearch_3.6.1_AMapLocation_3.1.0_20161122_10d35c1286d7d253d00444cf7f7218ec1a3b5061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\libs\alipaySdk-20160516.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6dbd15e12806634fb809af9b565d1cf22dca9d2c">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\alipaySdk-20160516_baaccaafd623241fbc0e191f84d968564fe2bb49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_3456ef527c3849d19f5b1f6a9f425d6b3fa58b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.1_640a6b621c125f4cae94796c033ff07611000586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.growingio.android\vds-android-agent\0.9.100\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="31167beed3003d37afa2686777d1293d6c011f38">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.growingio.android-vds-android-agent-0.9.100_4b541fca44f40e8d57073552ec5352ddfc31c9c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_b331f0bcdb26d9ca69d88a6b8c4dc2657291db1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d0017e39fb3524d3fe4204646d4ed4c0913cd31b">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-2.1.1_cd06a5e97ba1fc206e5c0e2441e20282f0b6f8de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_70a386e3486a19866674cd24f0a81b99feeea839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_71a156e51055767e0a6f7415731340afe3339884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_033b90d1c606522707013dca7f7ed6c207389f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_ac49ba16848b72c37b8dcc9007c808dc88216ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.getui\sdk\2.9.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bbba9be49557afc65f2809e0cd4aafcc547d2817">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.getui-sdk-2.9.5.0_3846716a63b1fc6d1e25bcf5a8cabd9719a3dcbd.jar" />
+    </item>
+
+</items>

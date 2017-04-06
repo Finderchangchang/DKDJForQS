@@ -43,9 +43,10 @@ public class LoginActivity extends BaseActivity implements ILogin {
     public void initEvents() {
         title_bar.setLeftClick(() -> finish());
         loginBtn.setOnClickListener(v -> {
-            if (!Utils.isMobileNo(telEt.getText().toString().trim())) {
-                ToastShort("请输入正确的手机号码");
-            } else if (TextUtils.isEmpty(pwdEt.getText().toString().trim())) {
+//            if (!Utils.isMobileNo(telEt.getText().toString().trim())) {
+//                ToastShort("请输入正确的手机号码");
+//            } else
+            if (TextUtils.isEmpty(pwdEt.getText().toString().trim())) {
                 ToastShort("密码不能为空");
             } else {
                 mListener.login(telEt.getText().toString().trim(), pwdEt.getText().toString().trim());

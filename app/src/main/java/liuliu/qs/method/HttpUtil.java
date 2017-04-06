@@ -13,6 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class HttpUtil {
     //    public static final String BASE_URL = "http://192.168.1.222/";
+//    public static final String BASE_URL = "http://s-352911.gotocdn.com/";
     public static final String BASE_URL = "http://www.dakedaojia.com/";
 
     private static final int DEFAULT_TIMEOUT = 5;

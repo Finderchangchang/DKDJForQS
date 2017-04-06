@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\main_left_back.png",
+        "source": "E:\\Project\\wai\\DKDJForQS\\afinal\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\main_left_back.png"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\main_left_back.png",
         "source": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\main_left_back.png"
     }

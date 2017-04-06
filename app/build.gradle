@@ -10,7 +10,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1
-        versionName "0.5.1"
+        versionName "0.5.2"
         manifestPlaceholders = [
                 GETUI_APP_ID    : "4xTIzKY62D7FOt8esAbZ45",
                 GETUI_APP_KEY   : "1YxlBwXMmW5nrD80I2Umd4",

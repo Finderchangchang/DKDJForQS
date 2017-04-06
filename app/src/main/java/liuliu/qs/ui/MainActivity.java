@@ -164,6 +164,7 @@ public class MainActivity extends BaseActivity implements IMain {
     Dialog dialog;
     @Bind(R.id.city_name_tv)
     TextView city_name_tv;
+
     @Override
     public void initViews() {
         setContentView(R.layout.activity_main);
@@ -296,6 +297,7 @@ public class MainActivity extends BaseActivity implements IMain {
         dialog.show();
         mListener.loadQSLatLngs();
     }
+
     @Override
     public void initEvents() {
         send_address_ll.setVisibility(View.VISIBLE);
@@ -413,6 +415,9 @@ public class MainActivity extends BaseActivity implements IMain {
     @Override
     public void getUserInfo(ShopInfo shopInfo) {
         if (shopInfo != null) {
+            if (db.findAll(ShopInfo.class).size() > 0) {
+                db.deleteAll(ShopInfo.class);
+            }
             db.save(shopInfo);
             sjAddressEt.setText(shopInfo.getAddress());
         }

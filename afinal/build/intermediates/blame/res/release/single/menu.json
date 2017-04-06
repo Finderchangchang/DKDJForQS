@@ -2,5 +2,9 @@
     {
         "merged": "E:\\androidProject\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
         "source": "E:\\androidProject\\DKDJForQS\\afinal\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\afinal\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\afinal\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]

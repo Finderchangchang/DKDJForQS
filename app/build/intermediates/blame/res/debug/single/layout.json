@@ -4,20 +4,32 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_order_detail.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonenumber_list.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_phonenumber_list.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_list.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_order_list.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\layout_contacts.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_details.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_order_details.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -28,12 +40,28 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_cancle_order.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_money_package.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_money_package.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_list.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\fragment_location_list.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\normal_dialog.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\normal_dialog.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
@@ -44,64 +72,76 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_price_detail.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_top.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_top.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_progress.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_progress.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\progress_dialog.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_pwd.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_forget_pwd.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_poi.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_search_poi.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_buy.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_buy.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_dake.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\dialog_dake.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_segment.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_segment.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_save_order.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_save_order.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_left.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_left.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_state.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_state.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_qu.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_qu.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_web.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_phone.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_phone.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\layout_basepickerview.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_title_bar.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\v_title_bar.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_poi.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_poi.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_progress.xml",
@@ -116,84 +156,100 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_bottom.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_bottom.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_jy_list.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_jy_list.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\getui_notification.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.getui\\sdk\\2.9.5.0\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_user.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_top.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_top.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\normal_dialog.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\normal_dialog.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonenumber_list.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_phonenumber_list.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_send.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_send.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_phone.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_phone.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_state.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_state.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_reg.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_poi.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_search_poi.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_details.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_order_details.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_reg.xml"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_address.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\pay_result.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_address.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_select_address.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_datapicker.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\my_datapicker.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_pay.xml",
@@ -208,40 +264,36 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_pwd.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_find_pwd.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_information.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_my_information.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_more.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\view_list_more.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_qu.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_qu.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_start.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_bottom.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_bottom.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_segment.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_segment.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\spinner_dialog.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
@@ -256,22 +308,6 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\progress_dialog.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_web.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\item_view.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cz.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_cz.xml"
     },
@@ -280,24 +316,16 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_layout.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chongzhi.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_chongzhi.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\layout_contacts.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\getui_notification.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.getui\\sdk\\2.9.5.0\\res\\layout\\getui_notification.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\include_pickerview_topbar.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
@@ -308,20 +336,16 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\pickerview_options.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_detail.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_order_detail.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_order.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_order.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_history_order.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_history_order.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_change_pwd.xml",
@@ -332,52 +356,36 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\include_pickerview_topbar.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_poi.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_poi.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\pickerview_time.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_address.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_address.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\dialog_pay.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_list.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_address_list.xml"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_image_edittext.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\layout_image_edittext.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_detail.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_order_detail.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_city.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_city.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_order.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_pwd.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_change_pwd.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
@@ -388,16 +396,12 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_image_edittext.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\layout_image_edittext.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_pwd.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_change_pwd.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jl.xml",
@@ -412,44 +416,60 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_list.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\address_list.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_dake.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\dialog_dake.xml"
-    },
-    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\dialog_pay.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chongzhi.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_chongzhi.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\spinner_dialog.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_pwd.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_forget_pwd.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\layout_basepickerview.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_address.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_select_address.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tv.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_tv.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\item_view.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_btn.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_btn.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_more.xml",
@@ -460,8 +480,480 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_list.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\address_list.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_login.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_login.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog_item.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\spinner_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_list.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_order_list.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonenumber_list.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_phonenumber_list.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_jy_list.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_jy_list.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_save_order.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_save_order.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_datapicker.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\my_datapicker.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_money_package.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_money_package.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_title_bar.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\v_title_bar.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_buy.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_buy.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_save_order.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_save_order.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_left.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_left.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_money_package.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_money_package.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_phone.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_phone.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_title_bar.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\v_title_bar.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_price_detail.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_price_detail.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cz.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_cz.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_top.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_top.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_state.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_state.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_reg.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_address.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_address.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_address.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_address.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_select_address.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_datapicker.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\my_datapicker.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_address.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_pwd.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_find_pwd.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_information.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_my_information.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_detail.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_buy.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_buy.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_pwd.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_find_pwd.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog_item.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\spinner_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_bottom.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_bottom.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_top.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\item_top.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_information.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_my_information.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\item_view.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_right.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_right.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_left.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_left.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_jl.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_jl.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_send.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_add_send.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_contacts.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\layout_contacts.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\getui_notification.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.getui\\sdk\\2.9.5.0\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_btn.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_btn.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_list.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_address_list.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_history_order.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_history_order.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cancle_order.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_cancle_order.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_address.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_address.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pay.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\dialog_pay.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_list.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_address_list.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_city.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_city.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_pay.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_pay.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_detail.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_order_detail.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_pwd.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_change_pwd.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_list.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\address_list.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_change_pwd.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_change_pwd.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_dake.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\dialog_dake.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chongzhi.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_chongzhi.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_pwd.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_forget_pwd.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_history_order.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\ac_history_order.xml"
+    },
+    {
+        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.1\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
     },
     {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_right.xml",
@@ -480,15 +972,15 @@
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_tv.xml"
     },
     {
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
         "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
         "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\item_contact.xml"
     },
     {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dialog_item.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\DKDJForQS\\afinal\\unspecified\\res\\layout\\spinner_dialog_item.xml"
-    },
-    {
-        "merged": "E:\\androidProject\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_list.xml",
-        "source": "E:\\androidProject\\DKDJForQS\\app\\src\\main\\res\\layout\\activity_order_list.xml"
+        "merged": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Project\\wai\\DKDJForQS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     }
 ]
