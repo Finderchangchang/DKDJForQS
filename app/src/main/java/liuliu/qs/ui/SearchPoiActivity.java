@@ -2,6 +2,7 @@ package liuliu.qs.ui;
 
 import android.content.Intent;
 import android.text.Editable;
+import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.widget.AutoCompleteTextView;
 import android.widget.LinearLayout;
@@ -32,7 +33,7 @@ import liuliu.qs.model.CityModel;
  */
 
 public class SearchPoiActivity extends BaseActivity {
-    private String city = "保定";
+    private String city = "朝阳";
     @Bind(R.id.title_bar)
     TitleBar titleBar;
     @Bind(R.id.input_edittext)
@@ -49,11 +50,11 @@ public class SearchPoiActivity extends BaseActivity {
         ButterKnife.bind(this);
         db = FinalDb.create(this);
         String cid = Utils.getCache("cid");
-        List<CityModel> list = db.findAllByWhere(CityModel.class, "cid='" + cid + "'");
-        if (list.size() > 0) {
-            city = list.get(0).getCname();
-            titleBar.setCenter_str(city);
+        String cityName = Utils.getCache("city_name");
+        if (!TextUtils.isEmpty(cityName)) {
+            city = cityName;
         }
+        titleBar.setCenter_str(city);
         titleBar.setLeftClick(() -> finish());
     }
 
@@ -72,29 +73,26 @@ public class SearchPoiActivity extends BaseActivity {
                 InputtipsQuery inputquery = new InputtipsQuery(newText, city);
                 inputquery.setCityLimit(true);
                 Inputtips inputTips = new Inputtips(SearchPoiActivity.this, inputquery);
-                inputTips.setInputtipsListener(new Inputtips.InputtipsListener() {
-                    @Override
-                    public void onGetInputtips(List<Tip> tipList, int rCode) {
-                        if (rCode == 1000) {
-                            List<HashMap<String, String>> listString = new ArrayList<HashMap<String, String>>();
-                            for (int i = 0; i < tipList.size(); i++) {
-                                HashMap<String, String> map = new HashMap<String, String>();
-                                map.put("name", tipList.get(i).getName());
-                                map.put("address", tipList.get(i).getDistrict());
-                                listString.add(map);
-                            }
-                            SimpleAdapter aAdapter = new SimpleAdapter(getApplicationContext(), listString, R.layout.item_layout,
-                                    new String[]{"name", "address"}, new int[]{R.id.poi_field_id, R.id.poi_value_id});
-
-                            minputlist.setAdapter(aAdapter);
-                            aAdapter.notifyDataSetChanged();
-                            minputlist.setOnItemClickListener((parent, view, position, id) -> {
-                                Intent intent = new Intent();
-                                intent.putExtra("tip", tipList.get(position));
-                                setResult(9, intent);
-                                finish();
-                            });
+                inputTips.setInputtipsListener((tipList, rCode) -> {
+                    if (rCode == 1000) {
+                        List<HashMap<String, String>> listString = new ArrayList<HashMap<String, String>>();
+                        for (int i = 0; i < tipList.size(); i++) {
+                            HashMap<String, String> map = new HashMap<String, String>();
+                            map.put("name", tipList.get(i).getName());
+                            map.put("address", tipList.get(i).getDistrict());
+                            listString.add(map);
                         }
+                        SimpleAdapter aAdapter = new SimpleAdapter(getApplicationContext(), listString, R.layout.item_layout,
+                                new String[]{"name", "address"}, new int[]{R.id.poi_field_id, R.id.poi_value_id});
+
+                        minputlist.setAdapter(aAdapter);
+                        aAdapter.notifyDataSetChanged();
+                        minputlist.setOnItemClickListener((parent, view, position, id) -> {
+                            Intent intent = new Intent();
+                            intent.putExtra("tip", tipList.get(position));
+                            setResult(9, intent);
+                            finish();
+                        });
                     }
                 });
                 inputTips.requestInputtipsAsyn();

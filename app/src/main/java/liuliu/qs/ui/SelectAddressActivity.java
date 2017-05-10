@@ -137,7 +137,7 @@ public class SelectAddressActivity extends BaseActivity implements IAddressManag
 
     private void closeThis() {
         Intent intent = new Intent();
-        poiModel.setDetailAddress(mp_et.getText().toString().trim());
+        //poiModel.setDetailAddress(mp_et.getText().toString().trim());
         intent.putExtra("val", poiModel);
         setResult(8, intent);
         SelectAddressActivity.this.finish();
@@ -148,7 +148,8 @@ public class SelectAddressActivity extends BaseActivity implements IAddressManag
         switch (resultCode) {
             case 9:
                 Tip tip = data.getParcelableExtra("tip");
-                load(true, new PoiModel(tip.getName(), tip.getAddress(), "0", tip.getPoint().getLatitude(), tip.getPoint().getLongitude()));
+                poiModel = new PoiModel(tip.getName(), tip.getAddress(), "0", tip.getPoint().getLatitude(), tip.getPoint().getLongitude());
+                load(true, poiModel);
                 break;
         }
         super.onActivityResult(requestCode, resultCode, data);

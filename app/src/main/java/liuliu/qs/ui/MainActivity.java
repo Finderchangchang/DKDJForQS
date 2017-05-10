@@ -221,6 +221,7 @@ public class MainActivity extends BaseActivity implements IMain {
                         @Override
                         public void onRegeocodeSearched(RegeocodeResult result, int rCode) {
                             city_name_tv.setText(result.getRegeocodeAddress().getCity());
+                            Utils.putCache("city_name", result.getRegeocodeAddress().getCity());
                             if (dialog != null) {
                                 dialog.dismiss();
                             }
@@ -335,6 +336,7 @@ public class MainActivity extends BaseActivity implements IMain {
                 if (city != null) {
                     aMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(Double.parseDouble(city.getLat()), Double.parseDouble(city.getLng())), 16));
                     city_name_tv.setText(city.getCname() + "市");
+                    Utils.putCache("city_name", city.getCname());
                 }
                 break;
         }

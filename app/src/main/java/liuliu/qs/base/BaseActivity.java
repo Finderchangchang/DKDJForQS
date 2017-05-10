@@ -20,12 +20,6 @@ public abstract class BaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         savedInstanceState = savedInstanceState;
         initViews();
-
-    }
-
-    @Override
-    protected void onStart() {
-        super.onStart();
         initEvents();
     }
 
