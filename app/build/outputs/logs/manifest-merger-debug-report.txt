@@ -297,7 +297,7 @@ MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Project\wai
 MERGED from [com.android.support:support-v4:23.0.0] E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.getui:sdk:2.9.5.0] E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.getui\sdk\2.9.5.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.growingio.android:vds-android-agent:0.9.100] E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.growingio.android\vds-android-agent\0.9.100\AndroidManifest.xml:6:5-8:41
-MERGED from [com.tencent.bugly:crashreport:2.5.0] E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:2.6.5] E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.6.5\AndroidManifest.xml:5:5-7:41
 	android:targetSdkVersion
 		INJECTED from E:\Project\wai\DKDJForQS\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Project\wai\DKDJForQS\app\src\main\AndroidManifest.xml

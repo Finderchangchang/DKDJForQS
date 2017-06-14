@@ -66,6 +66,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.6.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="21257e8fb439affef2a89c23ddfda45869ac0c31">
+        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.tencent.bugly-crashreport-2.6.5_33a16b4e21b076ce57f85db4a5b413afeeaea680.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
         jumboMode="false"
         optimize="true"
@@ -135,15 +144,6 @@
         revision="22.0.1"
         sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
         <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Project\wai\DKDJForQS\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.5.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="9d204f14ac0278b79783a83bf9a74cf9e68d0c10">
-        <dex dex="E:\Project\wai\DKDJForQS\app\build\intermediates\pre-dexed\debug\com.tencent.bugly-crashreport-2.5.0_7acf5f766cdd4485334a9ee42f6344a02e2946a9.jar" />
     </item>
     <item
         is-multidex="false"
